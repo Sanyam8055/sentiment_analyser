@@ -1,13 +1,13 @@
 ### Preprocessing and Training
 
 
-The notebooks has all the preprocessing, dataset analysis, training of models along with saving weights. 
+The notebooks have all the preprocessing, dataset analysis, and training of models along with saving weights. 
 
 There are 4 notebooks
 1. notebook_without_training_cleanup - This notebook takes in the dataset without the neutral class and trains models on top with some analysis.
 2. notebook_with_common_words_based_cleanup - This notebook analyses common words and their presence in the dataset then trains the model on top.
-3. notebook_with_training_data_filtering - This notebook dives deeper into the presence of neutral sentences and then train the model.
-4. notebook_with_bert_glove_embeddings - This notebook trains bert model along with glove embeddings. 
+3. notebook_with_training_data_filtering - This notebook dives deeper into the presence of neutral sentences and then trains the model.
+4. notebook_with_bert_glove_embeddings - This notebook trains the Bert model along with glove embeddings. 
 
 Best Performance with the models - notebook_with_training_data_filtering
 
