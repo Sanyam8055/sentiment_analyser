@@ -25,7 +25,7 @@ paths:
               schema:
                 type: string
 
-  /analyse/analyse_with_top:
+  /analyse/text:
     post:
       summary: Send text for Sentiment Analysis
       description: Check the sentiment of the text
